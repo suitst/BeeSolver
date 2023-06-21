@@ -1,2 +1,2 @@
 # BeeSolver
-A script for finding answers to the New York Times' Spelling Bee game
+A script for finding answers to the New York Times's Spelling Bee game
