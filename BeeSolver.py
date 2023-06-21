@@ -5,10 +5,6 @@
 import pandas as pd
 
 
-def split_letters(string):
-    return list(string)
-
-
 def get_letters():
     center = input("Type the center letter here: ").lower()
     if len(center) != 1:
